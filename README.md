@@ -15,7 +15,7 @@
 
 ## Description
 This template only uses *Flexbox* for alignment and layout. So, no external framework is necessary. 
-The project also complies with the BEM-methodology for CSS classes. 
+The project also implements the BEM-methodology for CSS classes. 
 
 The project uses a lot of modern and experimental CSS rules and a build script is added to accomodate older browser compatibility.
 
@@ -71,7 +71,7 @@ Run ```npm run watch:sass``` to run the script
 Run ```npm run build:css``` to run the build script
 
 ## Contact
-You can conact me at:
+You can contact me at:
 - [Email](shivamkaushikofficial@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/shivam-kaushik-bb8162102/)
 - [Twitter](https://twitter.com/kShivamDev)
